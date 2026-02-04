@@ -20,11 +20,10 @@ Ce projet regroupe des scripts Bash permettant d'automatiser les tâches courant
 C'est le point d'entrée principal pour utiliser tous les outils sans taper de commandes complexes.
 ```bash
 ./06_Menu_Global/sysadmin-tools.sh
-
+```
 ### 2. Utilisation individuelle des scripts
 Sauvegarde :
 ```
-BACH
 ./01_Sauvegarde/backup.sh /dossier/a/sauvegarder
 ```
 Monitoring :
