@@ -1,0 +1,15 @@
+RAPPORT MONITORING - 2026-02-04 11:51:42
+Serveur: debian13
+---------------------------------
+CPU Usage : 100%
+RAM Usage : 34% (1,3Gi/3,8Gi)
+Disk Usage: 21%
+Processus : 284
+---------------------------------
+TOP 5 CPU:
+    PID CMD                         %CPU
+   2064 /usr/bin/gnome-shell         0.2
+   2243 /usr/bin/vmtoolsd -n vmusr   0.1
+    842 /usr/bin/vmtoolsd            0.1
+   2221 /usr/bin/gnome-software --g  0.1
+   3151 [kworker/0:2-events]         0.0

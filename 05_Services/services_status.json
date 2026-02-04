@@ -1,0 +1,9 @@
+[
+  { "service": "ssh", "status": "active", "boot_enabled": "Oui", "date": "mer. 04 févr. 2026 12:33:47 CET" }
+,
+  { "service": "cron", "status": "active", "boot_enabled": "Oui", "date": "mer. 04 févr. 2026 12:33:47 CET" }
+,
+  { "service": "apache2", "status": "active", "boot_enabled": "Oui", "date": "mer. 04 févr. 2026 12:33:47 CET" }
+,
+  { "service": "mysql", "status": "inactive", "boot_enabled": "Non", "date": "mer. 04 févr. 2026 12:33:47 CET" }
+]

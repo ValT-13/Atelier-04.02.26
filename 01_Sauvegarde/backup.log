@@ -1,0 +1,42 @@
+tar: Suppression de « / » au début des noms des membres
+[2026-02-04 10:51:09] [SUCCESS] Backup créé : backup_20260204_105109.tar.gz (12K)
+[2026-02-04 10:51:23] [ERROR] Tentative de backup échouée : source '/home/val/dossier_fantome' introuvable.
+tar: Suppression de « / » au début des noms des membres
+[2026-02-04 10:54:29] [SUCCESS] Backup créé : backup_20260204_105429.tar.gz (12K)
+[2026-02-04 10:54:29] [INFO] Rotation effectuée : anciennes sauvegardes supprimées.
+tar: Suppression de « / » au début des noms des membres
+tar: /home/bob : open impossible: Permission non accordée
+tar: /home/hgirard : open impossible: Permission non accordée
+tar: /home/epetit : open impossible: Permission non accordée
+tar: /home/toto : open impossible: Permission non accordée
+tar: /home/iroux : open impossible: Permission non accordée
+tar: /home/jbonnet : open impossible: Permission non accordée
+tar: /home/gfournier : open impossible: Permission non accordée
+tar: /home/fmoreau : open impossible: Permission non accordée
+tar: /home/bdubois : open impossible: Permission non accordée
+tar: /home/val/.cache/ibus/dbus-j6Dftq9K : socket ignorée
+tar: /home/val/.cache/ibus/dbus-Vqoryc5Y : socket ignorée
+tar: /home/val/.cache/ibus/dbus-YQ7V3U9J : socket ignorée
+tar: /home/val/Atelier_Bash_Automatisation/backups/backup_20260204_123417.tar.gz : fichier modifié pendant sa lecture
+tar: /home/cbernard : open impossible: Permission non accordée
+tar: /home/charlie : open impossible: Permission non accordée
+tar: /home/alice : open impossible: Permission non accordée
+tar: /home/david : open impossible: Permission non accordée
+tar: /home/dleroy : open impossible: Permission non accordée
+tar: Arrêt avec code d'échec à cause des erreurs précédentes
+[2026-02-04 12:34:22] [ERROR] La commande tar a échoué pour /home
+tar: Suppression de « / » au début des noms des membres
+tar: /home/val/.cache/ibus/dbus-j6Dftq9K : socket ignorée
+tar: /home/val/.cache/ibus/dbus-Vqoryc5Y : socket ignorée
+tar: /home/val/.cache/ibus/dbus-YQ7V3U9J : socket ignorée
+tar: /home/val/Atelier_Bash_Automatisation/backups/backup_20260204_123436.tar.gz : fichier modifié pendant sa lecture
+[2026-02-04 12:34:44] [ERROR] La commande tar a échoué pour /home/val
+tar: Suppression de « / » au début des noms des membres
+tar: /etc/ssh/ssh_host_ecdsa_key : open impossible: Permission non accordée
+tar: /etc/ssh/ssh_host_rsa_key : open impossible: Permission non accordée
+tar: /etc/ssh/ssh_host_ed25519_key : open impossible: Permission non accordée
+tar: Arrêt avec code d'échec à cause des erreurs précédentes
+[2026-02-04 12:36:52] [ERROR] La commande tar a échoué pour /etc/ssh/
+tar: Suppression de « / » au début des noms des membres
+[2026-02-04 12:37:14] [SUCCESS] Backup créé : backup_20260204_123714.tar.gz (4,0K)
+[2026-02-04 12:37:14] [INFO] Rotation effectuée : anciennes sauvegardes supprimées.
